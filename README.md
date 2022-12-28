@@ -1,1 +1,1 @@
-"# typescript_learn" 
+# typescript learn
