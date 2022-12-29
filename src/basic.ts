@@ -1,5 +1,5 @@
-let hello:string = "hello typescript"
-console.log(hello)
+let Hello:string = "hello typescript"
+console.log(Hello)
 
 
 // 기본 타입

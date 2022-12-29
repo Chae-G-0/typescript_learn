@@ -1,6 +1,6 @@
 "use strict";
-var hello = "hello typescript";
-console.log(hello);
+var Hello = "hello typescript";
+console.log(Hello);
 // 기본 타입
 var car = 'bmw';
 var age = 30;
